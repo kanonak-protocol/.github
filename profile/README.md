@@ -12,3 +12,20 @@ Knowledge lives in the heads of domain experts, but there is no standard way to 
 - **Distributed publishing** — Anyone with a domain can publish ontologies. No central authority.
 - **Versioned ontologies** — Semantic versioning lets publishers evolve schemas without breaking consumers.
 - **Built for AI agents** — Formally defined types ground AI agents in a shared vocabulary with validated structure.
+
+## Get Started
+
+Install the CLI:
+
+```
+npm install -g @kanonak-protocol/cli --registry https://npm.pkg.github.com
+```
+
+Then:
+
+```bash
+kanonak install kanonak.org/core-rdf    # Install a package
+kanonak validate contacts.kan.yml       # Validate a file
+kanonak deps contacts.kan.yml           # Show dependency tree
+```
+
