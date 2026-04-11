@@ -22,7 +22,7 @@ The protocol was originally called "Canon", short for *canonical* — reflecting
 Install the CLI:
 
 ```
-npm install -g @kanonak-protocol/cli --registry https://npm.pkg.github.com
+npm install -g @kanonak-protocol/cli
 ```
 
 Then:
