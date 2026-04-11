@@ -4,7 +4,7 @@ An open protocol for defining, versioning, and sharing semantic ontologies acros
 
 **[kanonak.org](https://kanonak.org)**
 
-## Why Canon Protocol?
+## Why Kanonak Protocol?
 
 Knowledge lives in the heads of domain experts, but there is no standard way to turn that knowledge into durable, machine-readable definitions that others can build on. Kanonak Protocol changes that.
 
